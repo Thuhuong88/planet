@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 oijn ;oij 
+
+Cold and wet
+=======
+dwarf planet
+>>>>>>> 24eafdd6efef752b1946a568316922377bc150ce
